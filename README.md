@@ -16,9 +16,9 @@ I am a strong believer in the power of open source to democratize AI and address
 I am proud to have contributed to a range of impactful open-source projects across both academia and industry.
 
 #### Academic & Research Projects:
-* **[HKUNLP/Dream](https://github.com/HKUNLP/Dream)**: A project focused on [briefly describe the project's goal or your contribution].
-* **[thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent)**: An initiative to develop [briefly describe the project's goal or your contribution].
-* **[bytedance/tarsier](https://github.com/bytedance/tarsier)**: Contributed to the development of [briefly describe the project's goal or your contribution].
+* **[HKUNLP/Dream](https://github.com/HKUNLP/Dream)**: A new architecture for LLM, decoding with diffusion model.
+* **[thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent)**: An agent that actively triggers functions through captured computer operation signals.
+* **[bytedance/tarsier](https://github.com/bytedance/tarsier)**: A multimodal large language model developed by ByteDance Omni Lab that accurately analyzes images and videos.
 
 #### Industry-Leading Open Source Projects:
 * **[vllm-project/vllm](https://github.com/vllm-project/vllm)**: A high-throughput and memory-efficient inference and serving engine for LLMs.
