@@ -23,8 +23,8 @@ I am proud to have contributed to a range of impactful open-source projects acro
 #### Industry-Leading Open Source Projects:
 * **[vllm-project/vllm](https://github.com/vllm-project/vllm)**: A high-throughput and memory-efficient inference and serving engine for LLMs.
 * **[vllm-project/production-stack](https://github.com/vllm-project/production-stack)**: Focused on building a robust, production-ready stack for serving LLMs with vLLM.
-* **[LMCache/LMCache](https://github.com/LMCache/LMCache)**: A project designed to [briefly describe LMCache's goal, e.g., "optimize LLM serving by caching KV-pairs"].
-* **[huggingface/transformers](https://github.com/huggingface/transformers)**: Contributed to the leading library for state-of-the-art machine learning models.
+* **[LMCache/LMCache](https://github.com/LMCache/LMCache)**: Redis for LLMs. A project designed to optimize LLM serving by caching KV-pairs.
+* **[huggingface/transformers](https://github.com/huggingface/transformers)**: A library of pretrained text, computer vision, audio, video, and multimodal models for inference and training.
 
 ---
 
