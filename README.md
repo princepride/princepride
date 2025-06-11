@@ -1,5 +1,10 @@
 # Hi, I'm Wang Zhipeng 👋
 
+<p align="center">
+  <img height="220px" width="51%" src="https://github-readme-stats-princeprides-projects.vercel.app/api?username=princepride&show_icons=true&theme=transparent"/>
+  <img height="220px" width="39%" src="https://github-readme-stats-princeprides-projects.vercel.app/api/top-langs/?username=princepride&layout=compact&theme=transparent"/>
+</p>
+
 I'm a software engineer passionate about building the next generation of AI systems. My work is centered around the **post-training of large models** and developing robust **AI Infrastructure**.
 
 I am a strong believer in the power of open source to democratize AI and address the public's concerns about its rapid advancement. I believe that transparent, collaborative development is the key to building safe and beneficial AI for everyone.
@@ -27,3 +32,4 @@ I am proud to have contributed to a range of impactful open-source projects acro
 
 * [**Email**](wangzhipeng628@gmail.com)
 * [**LinkedIn**](https://www.linkedin.com/in/%E5%BF%97%E9%B9%8F-%E6%B1%AA-537882216/)
+
